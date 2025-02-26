@@ -3,7 +3,7 @@ info:
   name: astro landing page 
 envs:
   prod:
-    branch: main
+    branch: dev
 routes:
   main_env: prod
   main_app: frontend
